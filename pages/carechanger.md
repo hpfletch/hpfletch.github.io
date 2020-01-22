@@ -1,6 +1,7 @@
-*CareChanger*
+---
+#CareChanger
 
-*Background*  
+##*Background*
 Urinary incontinence affects approximately 423 million individuals worldwide.
 Within this population, physical or cognitive impairments may inhibit
 individuals from communicating urinary void events to caretakers. This lack of
@@ -70,13 +71,13 @@ device typically requires approximately 5 seconds to identify the user as
 
 Figure 3: Temperature and Humidity Probe
 
-*Results*  
+##*Results*  
 A prototype device was completed and delivered to Jim in Fall 2019. Since then
 it has been successfully sensing void events in the wheelchair of Jim’s
 Daughter, Mariel. The success of this prototype has proven the utility of void
 event detection in modern care facilities.
 
-*Awards, Recognition and Articles*
+##*Awards, Recognition and Articles*
 
 -   Second place in the technological barriers category at the [2019 National
     IDeA
