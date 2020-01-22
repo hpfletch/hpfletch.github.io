@@ -54,7 +54,7 @@ efficiency. The hardware provides the following functionality:
     sense a urinary void event
 
 
-<img src="/images/carechanger PCB fig 1.png" /> </div> <br>
+<img src="/images/carechanger PCB fig 1.png" /> <br>
 Figure 1: CareChanger PCB
 
 Figure 2: CareChanger Device
