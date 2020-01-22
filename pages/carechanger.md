@@ -1,8 +1,7 @@
 ---
 # CareChanger
 
-#X# *Background*
-Urinary incontinence affects approximately 423 million individuals worldwide.
+#X# *Background*<br>Urinary incontinence affects approximately 423 million individuals worldwide.
 Within this population, physical or cognitive impairments may inhibit
 individuals from communicating urinary void events to caretakers. This lack of
 efficient communication frequently leads to skin infections and tissue damage
