@@ -9,7 +9,6 @@ I am a Senior Undergraduate student at the University of Victoria with an intere
 Please select the projects for further details
 
 [**CareChanger**](./pages/carechanger.html)
-
 Urinary void event detection system 
 
 
