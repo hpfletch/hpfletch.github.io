@@ -38,7 +38,7 @@ primary embedded PCB, Bluetooth hardware and battery are enclosed in the calf
 module. In the most recent version (not pictured) a thin ribbon cable connects
 the calf module and insole.
 
-Figure 4: Wearable Device
+Figure 1: Wearable Device
 
 ### *Pressure Sensor Theory of Operation*
 
@@ -46,19 +46,19 @@ After reviewing the literature, a prototype resistive sensor matrix has been
 designed for sampling the pressure distribution across the user’s plantar
 region. Velostat, an ESD safe packing material manufactured by 3M, acts as the
 pressure sensing element. Since Velostat has a very high resistance between
-points on its surface (Rx and Ry in Figure 5), strips of conductive copper tape
+points on its surface (Rx and Ry in Figure 1), strips of conductive copper tape
 fixed to the same layer of Velostat will pass negligible currents between each
-other (Figure 6). 
+other (Figure 2). 
 
-Figure 5: Directional Resistances of Velostat Figure 6: Velostat with Copper
+Figure 1: Directional Resistances of Velostat Figure 2: Velostat with Copper
 Traces
 
 However, aligned copper traces on opposite sides of the Velostat sheet will
 exchange a current dependent on the Velostat’s pressure-variant
-vertical resistance (Rz in Figure 5) which is situated between the two
-conductors (Figure 7). 
+vertical resistance (Rz in Figure 1) which is situated between the two
+conductors (Figure 3). 
 
-Figure 7: Pressure Dependent Resistances Between Copper Traces
+Figure 3: Pressure Dependent Resistances Between Copper Traces
 
 The relative pressure, or vertical Velostat resistance (Rz), can be determined
 by simply acquiring the output voltage of a resistive divider. Therefore, any
@@ -68,23 +68,23 @@ trace on the top layer, the relative pressure on each sensor can be acquired by
 simply measuring the voltages on each overlapping trace on the bottom layer.
 Prototyping the pressure sensing insole required laser cutting a simple stencil
 system which provided a convenient means for accurately placing copper strips on
-the Velostat material (Figure 8). In the future, a flexible copper polyamide
+the Velostat material (Figure 4). In the future, a flexible copper polyamide
 film will be masked and etched to provide more professional results and a higher
 density of sensor elements.
 
-Figure 8: Laser Cut Prototyping System and Assembled Insole Prototype
+Figure 4: Laser Cut Prototyping System and Assembled Insole Prototype
 
 ### *Inertial Measurement Units (IMUs)*
 
 Inertial measurement units (IMUs) have been selected to measure the angular
 displacements of ankle flexion, inversion/eversion and abduction/adduction. To
 achieve this, two IMUs are required: one mounted on the user’s calf and one
-embedded in the insole (Figure 9). Each IMU combines a MEMs accelerometer and
+embedded in the insole (Figure 5). Each IMU combines a MEMs accelerometer and
 gyroscope to measure linear and angular velocity along three axes. This data is
 buffered inside the IMU and communicated to a micro controller unit (MCU) via a
 digital serial interface such as I2C or SPI.
 
-Figure 9: Ankle Movements and IMU Locations
+Figure 5: Ankle Movements and IMU Locations
 
 ### *Printed Circuit Board Design*
 
@@ -109,4 +109,4 @@ LSM6DSM IMU and a variety of electronics which provide:
 
 -   LEDs for battery and connection status
 
-    Figure 10: Main Board (Left) and Insole Board (Right)
+    Figure 6: Main Board (Left) and Insole Board (Right)
