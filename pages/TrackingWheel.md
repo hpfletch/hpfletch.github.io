@@ -21,7 +21,7 @@ satisfied by an electromechanical test apparatus known as the tracking wheel.
 Completed as a joint effort between UVIC’s Science Machine Shop and Department
 of  
 Chemistry’s Electronics Shop, the proposed tracking wheel design consists of the
-following primary components ():
+following primary components (Figure 1):
 
 1.  Rotor
 
@@ -33,28 +33,28 @@ following primary components ():
 
 5.  Frame
 
->   Figure 1: Tracking Wheel Apparatus (Isometric View)
+  Figure 1: Tracking Wheel Apparatus (Isometric View)
 
 ## *Control System Design*
 
 To achieve complete automation of the electromechanical assembly it is first
 required to understand what actions it must perform. A tracking wheel test
 simply consists of repeating a specified number of test cycles. Each cycle Is
-composed of the following four steps (Figure 15).
+composed of the following four steps (Figure 2).
 
->   Step 1: Contaminate  
->   The insulator is submerged in the contaminant solution.
+   Step 1: Contaminate  
+   The insulator is submerged in the contaminant solution.
 
->   Step 2: Drip  
->   After being submerged the excess contaminant solution drips off the
->   insulator
+   Step 2: Drip  
+   After being submerged the excess contaminant solution drips off the
+   insulator
 
 Step 3: Energize  
 The user specified voltage is applied to the active end of the insulator
 
->   Step 4: Idle  
->   After being energized, the insulator in position 2 drains of any excess
->   charge and sits idle for contamination
+   Step 4: Idle  
+   After being energized, the insulator in position 2 drains of any excess
+   charge and sits idle for contamination
 
 Figure 2: Tracking Wheel Cycle Diagram
 
