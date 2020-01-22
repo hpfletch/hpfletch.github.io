@@ -1,5 +1,4 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Harrison Fletcher's Portfolio
+description: A portfolio of noteable projects
+show_downloads: false
 theme: jekyll-theme-cayman
