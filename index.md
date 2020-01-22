@@ -15,13 +15,13 @@ A Urinary void event detection system developed by the BME Club for a local fath
 [**Achilles Biofeedback Wearable**](./pages/Biofeedback.md)<br>
 Wearable device developed by [Dr. Giles' Lab](https://gileslab.wixsite.com/uvicbiomech) at UVic to address issues faced by practitioners in the diagnoses and treatment of Achilles tendon injuries. 
 
-[**Beehive Monitoring**](./pages/beehivemonitor.html)<br>
+[**Beehive Monitoring**](./pages/beehivemonitor.md)<br>
 IoT monitoring system designed to monitor the interior climate of a langstroth beehive. 
 
-[**DC Lab Power Supply**](./pages/DCSupply.html)<br>
+[**DC Lab Power Supply**](./pages/DCSupply.md)<br>
 My first project in Altium Designer: a compact precise DC lab supply based on the [uSupply](https://www.eevblog.com/projects/usupply/).
 
-[**Tracking Wheel Controls**](./pages/TrackingWheel.html)<br>
+[**Tracking Wheel Controls**](./pages/TrackingWheel.md)<br>
 Industrial control system for a high voltage test apperatus designed to stress test high voltage insulators. 
 
 [**AutoDACI**](./pages/AutoDACI.html)<br>
