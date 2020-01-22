@@ -8,9 +8,11 @@ I am a Senior Undergraduate student at the University of Victoria with an intere
 # Projects
 Please select the project titles for further details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CareChanger**](./pages/carechanger.html): A Urinary void event detection system developed by the BME Club for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CareChanger**](./pages/carechanger.html):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Urinary void event detection system developed by the BME Club for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Achilles Biofeedback Wearable**](./pages/Biofeedback.html):  Wearable device developed by [Dr. Giles' Lab](https://gileslab.wixsite.com/uvicbiomech) at UVic to address issues faced by practitioners in the diagnoses and treatment of Achilles tendon injuries. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Achilles Biofeedback Wearable**](./pages/Biofeedback.html):<br>
+Wearable device developed by [Dr. Giles' Lab](https://gileslab.wixsite.com/uvicbiomech) at UVic to address issues faced by practitioners in the diagnoses and treatment of Achilles tendon injuries. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Beehive Monitoring**](./pages/beehivemonitor.html)
 
