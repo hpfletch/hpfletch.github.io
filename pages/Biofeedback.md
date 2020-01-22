@@ -1,6 +1,7 @@
-*Achilles Biofeedback Wearable*
+---
+# *Achilles Biofeedback Wearable*
 
-*Background*  
+## *Background*
 Currently there are few affordable tools to aid practitioners in the diagnosis
 of conditions affecting the Achilles tendon. Providing a real-time quantifiable
 diagnosis within a physician-patient consultation is generally achieved with
@@ -11,7 +12,7 @@ absence of motivational results which illustrate the healing progress to the
 patient. Both issues are being challenged by a wearable biofeedback device
 designed and developed by the Dr. Giles Lab at UVic.
 
-*Objective*  
+## *Objective*
 Provide a wearable, battery-powered device which provides the following
 functionality:
 
@@ -27,7 +28,7 @@ functionality:
     dangerous and prescribed movement limitations to prevent further injury.
 
   
-*Design Overview*
+## *Design Overview*
 
 The proposed solution consists of a hardware platform and android application.
 The wearable device includes a small enclosure, which is strapped
@@ -39,7 +40,7 @@ the calf module and insole.
 
 Figure 4: Wearable Device
 
-*Pressure Sensor Theory of Operation*
+### *Pressure Sensor Theory of Operation*
 
 After reviewing the literature, a prototype resistive sensor matrix has been
 designed for sampling the pressure distribution across the user’s plantar
@@ -73,7 +74,7 @@ density of sensor elements.
 
 Figure 8: Laser Cut Prototyping System and Assembled Insole Prototype
 
-*Inertial Measurement Units (IMUs)*
+### *Inertial Measurement Units (IMUs)*
 
 Inertial measurement units (IMUs) have been selected to measure the angular
 displacements of ankle flexion, inversion/eversion and abduction/adduction. To
@@ -85,7 +86,7 @@ digital serial interface such as I2C or SPI.
 
 Figure 9: Ankle Movements and IMU Locations
 
-*Printed Circuit Board Design*
+### *Printed Circuit Board Design*
 
 Two circuit boards have been designed to complete this wearable platform. The
 first is enclosed inside the insole and provides all electronics required to
