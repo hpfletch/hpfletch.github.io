@@ -1,7 +1,7 @@
 ---
 # CareChanger
 
-## *Background*
+#X# *Background*
 Urinary incontinence affects approximately 423 million individuals worldwide.
 Within this population, physical or cognitive impairments may inhibit
 individuals from communicating urinary void events to caretakers. This lack of
@@ -12,7 +12,7 @@ void events and alerting caretakers. In Summer 2019, Jim reached out to partner
 with the UVic Biomedical Engineering Design (BMED) Club for the design of an
 assistive platform he called CareChanger.
 
-*Objective*  
+### *Objective*  
 To develop a small and mobile urinary void event detection and alert system for
 wheelchair bound users which provides the following functionality:
 
@@ -20,7 +20,7 @@ wheelchair bound users which provides the following functionality:
 
 -   Alert caretakers of events and display live client data
 
-*Design Overview*  
+### *Design Overview*  
 The proposed design consists of four modules:
 
 1.  Wheelchair cushion sensor
@@ -31,7 +31,7 @@ The proposed design consists of four modules:
 
 4.  Mobile web application
 
-*Hardware Design*  
+### *Hardware Design*  
 The CareChanger device is a battery-powered embedded system based on the
 [NINA-W102](https://www.u-blox.com/en/product/nina-w10-series) Wi-Fi module. It
 has been designed for quick and accurate detection of urinary void events. A
@@ -71,13 +71,13 @@ device typically requires approximately 5 seconds to identify the user as
 
 Figure 3: Temperature and Humidity Probe
 
-##*Results*  
+### *Results*  
 A prototype device was completed and delivered to Jim in Fall 2019. Since then
 it has been successfully sensing void events in the wheelchair of Jim’s
 Daughter, Mariel. The success of this prototype has proven the utility of void
 event detection in modern care facilities.
 
-##*Awards, Recognition and Articles*
+### *Awards, Recognition and Articles*
 
 -   Second place in the technological barriers category at the [2019 National
     IDeA
