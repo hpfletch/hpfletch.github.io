@@ -20,8 +20,7 @@ Please select the project titles for further details.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**AutoDACI**](./pages/AutoDACI.html)
 
-<dl>
-<dt>[**CareChanger**](./pages/carechanger.html)</dt>
+[**CareChanger**](./pages/carechanger.html):
 <dd> A Urinary void event detection system developed by the BME Club for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)</dd>
  
 # Contact 
