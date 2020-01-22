@@ -8,9 +8,9 @@ I am a Senior Undergraduate student at the University of Victoria with an intere
 # Projects
 Please select the projects for further details
 
-[**CareChanger**](./pages/carechanger.html)\n
+[**CareChanger**](./pages/carechanger.html)
 
-...A Urinary void event detection system develope for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Urinary void event detection system develope for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
 
 
 
