@@ -12,7 +12,7 @@ Please select the project titles for further details.
 [**CareChanger**](./pages/carechanger.md)<br>
 A Urinary void event detection system developed by the BME Club for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
 
-[**Achilles Biofeedback Wearable**](./pages/Biofeedback.html)<br>
+[**Achilles Biofeedback Wearable**](./pages/Biofeedback.md)<br>
 Wearable device developed by [Dr. Giles' Lab](https://gileslab.wixsite.com/uvicbiomech) at UVic to address issues faced by practitioners in the diagnoses and treatment of Achilles tendon injuries. 
 
 [**Beehive Monitoring**](./pages/beehivemonitor.html)<br>
