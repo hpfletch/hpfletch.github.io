@@ -53,7 +53,7 @@ efficiency. The hardware provides the following functionality:
 5.  A temperature and humidity sensor probe conveying all the data required to
     sense a urinary void event
 
-![CC_CPB](images/carechanger PCB fig 1.png)
+![alt text](https://github.com/hpfletch/hpfletch.github.io/blob/master/images/carechanger%20PCB%20fig%201.png)
 
 Figure 1: CareChanger PCB
 
