@@ -9,7 +9,7 @@ I am a Senior Undergraduate student at the University of Victoria with an intere
 # Projects
 Please select the project titles for further details.
 
-[**CareChanger**](./pages/carechanger.html)<br>
+[**CareChanger**](./pages/carechanger.md)<br>
 A Urinary void event detection system developed by the BME Club for a local father, [Jim McDermott](https://www.timescolonist.com/news/local/dad-s-invention-for-disabled-daughter-gets-recognition-at-national-contest-1.23918747)
 
 [**Achilles Biofeedback Wearable**](./pages/Biofeedback.html)<br>
