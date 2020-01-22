@@ -28,6 +28,6 @@ An automated ultrasound imaging device designed to implement a novel imaging tec
 
  
 # Contact 
-If you have any questions about my work or would like to reach out please contact me via email.
-Mail: hfletch@uvic.ca
-LinkedIn: [https://www.linkedin.com/in/harrison-fletch/](https://www.linkedin.com/in/harrison-fletch/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail: hfletch@uvic.ca <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/harrison-fletch/)
