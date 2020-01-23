@@ -53,7 +53,7 @@ other (Figure 2). 
 Figure 1: Directional Resistances of Velostat Figure 2: Velostat with Copper
 Traces
 
-However, aligned copper traces on opposite sides of the Velostat sheet will
+However, copper traces on opposite sides of the Velostat sheet will
 exchange a current dependent on the Velostat’s pressure-variant
 vertical resistance (Rz in Figure 1) which is situated between the two
 conductors (Figure 3). 
@@ -68,7 +68,7 @@ trace on the top layer, the relative pressure on each sensor can be acquired by
 simply measuring the voltages on each overlapping trace on the bottom layer.
 Prototyping the pressure sensing insole required laser cutting a simple stencil
 system which provided a convenient means for accurately placing copper strips on
-the Velostat material (Figure 4). In the future, a flexible copper polyamide
+the Velostat material (Figure 4). In the future, a flexible copper-polyamide
 film will be masked and etched to provide more professional results and a higher
 density of sensor elements.
 
