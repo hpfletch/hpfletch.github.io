@@ -13,8 +13,7 @@ with the UVic Biomedical Engineering Design (BMED) Club for the design of an
 assistive platform he called CareChanger.
 
 ### *Objective*  
-To develop a small and mobile urinary void event detection and alert system for
-wheelchair bound users which provides the following functionality:
+The objective of this project is to develop a small and mobile urinary void event detection and alert system for wheelchair bound users which provides the following functionality:
 
 -   Detection of urinary void events
 
@@ -61,16 +60,7 @@ Figure 2: CareChanger Device
 
 A [Silicon labs
 Si7021](https://www.silabs.com/sensors/humidity/si7006-13-20-21-34/device.si7021-a20-gm)
-low power temperature and humidity sensor is embedded in a small 3D-printed
-probe (Figure 3). Embedding this probe in the seat cushion of the wheelchair
-provides an acceptable measure of local temperature and humidity. Temperature
-and humidity is periodically sampled and processed by the embedded system with a
-dynamic algorithm which reliably identifies urinary void events. Data and event
-status are then communicated to a remote database via Wi-Fi. Databased samples
-are viewable via interactive plots. After an occurrence of a void event, the
-device typically requires approximately 5 seconds to identify the user as
-“dirty”.
-
+low power temperature and humidity sensor is embedded in a small 3D-printed probe (Figure 3). Embedding this probe in the seat cushion of the wheelchair provides an acceptable measure of local temperature and humidity. Temperature and humidity is periodically sampled and processed by the embedded system with a dynamic algorithm which reliably identifies urinary void events. Data and event status are then communicated to a remote database via Wi-Fi. Databased samples are viewable via interactive plots. After the occurrence of a void event, the device typically requires approximately 5 seconds to identify the user as “dirty”.
 Figure 3: Temperature and Humidity Probe
 
 ### *Results*  
