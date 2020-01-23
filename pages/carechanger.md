@@ -55,7 +55,7 @@ efficiency. The hardware provides the following functionality:
 
 
 <img src="/images/carechanger PCB fig 1.png" /> <br>
-Figure 1: CareChanger PCB
+&emps Figure 1: CareChanger PCB
 
 Figure 2: CareChanger Device
 
